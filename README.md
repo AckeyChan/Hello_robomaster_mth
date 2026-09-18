@@ -1,6 +1,6 @@
 # hello_robomaster_mth
 ## 一 简介
-这个项目是用于提交robomaster的第一周作业
+这个项目是用于提交robomaster的第一周作业\
 达成的效果是在cmake的参与下打印出hello_robomaster
 ## 二 搭建环境
 本代码是在Fedora linux 44 Workstation上进行编写的
@@ -12,7 +12,7 @@ src/  用于存放cpp源码\
 image/ 用于存放md文件引用的图片\
 CmakeLists.txt 构建cmake所需
 ## 四 构建步骤
-你需要将本repo下载或者git clone到一个工作区，然后在工作区的目录下执行以下操作：\
+你需要将本repo下载或者git clone到一个工作区，然后在工作区的目录下执行以下操作：
 ``` bash
 cmake -S . -B build
 cmake --build build
