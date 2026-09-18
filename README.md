@@ -31,7 +31,7 @@ build/hello_robomaster_mth
 >[100%] Built target hello_robomaster_mth 
 
 ## 六 作者
-机械2611 马天浩<br><br><br><br><br><br><br><br><br><br><br><br>
+机械2611 马天浩 26/9/18<br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br>
